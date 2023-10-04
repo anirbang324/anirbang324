@@ -9,8 +9,8 @@
 
 # 💫 About Me:
 
-* 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Software Engineer Trainee at LTIMinndtree.
+* 🧐   Interested in full stack. Recent focus on the backend.
+* 💼   Former Software Engineer Trainee at LTIMinndtree.
 * 🎓   Bachelor of Technology in Computer Science and Engineering.
 * 🌱   Currently learning Machine Learning.
 * 📚   Loves to read about innovation, technology, and philosophy.

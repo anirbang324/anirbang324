@@ -11,7 +11,6 @@
 
 * 🧐   Interested in full stack. Recent focus on the backend.
 * 💼   Former Software Engineer Trainee at LTIMindtree.
-* 💻   Upcoming Packaged App Development Associate at Accenture.
 * 🎓   Bachelor of Technology in Computer Science and Engineering.
 * 🌱   Currently learning Machine Learning.
 * 📚   Loves to read about innovation, technology, and philosophy.

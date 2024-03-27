@@ -1,15 +1,14 @@
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Anirban</h1>
+<h1 align="center">Hi, I am Anirban</h1>
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh0Ymd2b29xdjdrdzN5ZnJoems5enh6b2tiaGpuY2U1cjZuZWl1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TqiwHbFBaZ4ti/giphy.gif" alt="code" /></a>
 </div>
 
 # 💫 About Me:
 
-* 🧐   Interested in full stack. Recent focus on the backend.
+* 🧐   Currently working on Data Engineering.
 * 💼   Former Software Engineer Trainee at LTIMindtree.
 * 💼   Packaged App. Development Associate at Accenture.
 * 🎓   Bachelor of Technology in Computer Science and Engineering.

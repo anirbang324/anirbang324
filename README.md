@@ -10,7 +10,7 @@
 
 * 🧐   Currently working on Data Engineering.
 * 💼   Former Software Engineer Trainee at LTIMindtree.
-* 💼   Data Engineering Management and Governance Analyst.
+* 💼   Data Engineering Management and Governance Analyst at Accenture.
 * 🎓   Bachelor of Technology in Computer Science and Engineering.
 * 🌱   Currently learning Machine Learning.
 * 📚   Loves to read about innovation, technology, and philosophy.
